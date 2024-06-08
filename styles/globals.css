@@ -2,6 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
+.static-image {
+  transform: none;
+}
+
+.preserve-3d {
+  transform-style: preserve-3d;
+}
+
 .rotate-450-hover {
   transition: transform 0.3s ease-in-out;
 }
