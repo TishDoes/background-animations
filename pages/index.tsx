@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <div className="w-screen h-screen flex justify-center">
       <>
-        <div className="w-[1000px] h-[1000px] rounded-full rotate-[0deg] hover:rotate-[450deg] hover:scale-[1.4] transition-transform duration-700 mt-60">
+        <div className="w-[1000px] h-[1000px] rounded-full rotate-[0deg] hover:rotate-[450deg] hover:scale-[1.6] transition-transform duration-700 mt-60">
           <>
             <div className="rounded-xl w-[340px] h-60 absolute left-[280px] top-[76px]">
               <Image
